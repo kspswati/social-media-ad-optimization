@@ -1,17 +1,17 @@
 
-# 📊 Social Media Ad Optimization
+# Social Media Ad Optimization
 
 This project analyzes social media ad campaign performance using a dataset of user interactions. It uncovers which platforms, ad categories, and user segments drive the highest engagement, conversions, and simulated revenue.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 In digital advertising, understanding which ads perform best across devices, platforms, and times is critical. This project aims to surface performance insights using CTR, CVR, engagement, and revenue simulation metrics.
 
 ---
 
-## 📂 About the Dataset
+## About the Dataset
 
 - **Format**: CSV file  
 - **Records**: User-level interaction data  
@@ -24,20 +24,20 @@ In digital advertising, understanding which ads perform best across devices, pla
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 📁 social-media-ad-optimization/
-├── 📘 social_media_ad_analysis.ipynb   # Python notebook
-├── 📄 README.md                         # Project overview
-├── 📂 data/
+├──  social_media_ad_analysis.ipynb   # Python notebook
+├──  README.md                         # Project overview
+├──  data/
 │   └── social_media_ad_optimized.csv   # Cleaned dataset
-├── 📦 requirements.txt                 # Required libraries
+├──  requirements.txt                 # Required libraries
 ```
 
 ---
 
-## ⚙️ Techniques & Models Used
+##  Techniques & Models Used
 
 - Data preprocessing & cleaning
 - Metric engineering (CTR, CVR, Engagement Score)
@@ -48,7 +48,7 @@ In digital advertising, understanding which ads perform best across devices, pla
 
 ---
 
-## 📈 Visual Insights
+##  Visual Insights
 
 - **CTR Analysis**: Instagram outperforms Facebook in click-throughs  
 - **CVR by Category**: Food & Beverage shows highest conversion rates  
@@ -58,7 +58,7 @@ In digital advertising, understanding which ads perform best across devices, pla
 
 ---
 
-## ✅ Key Results
+##  Key Results
 
 - Instagram yields ~55% CTR vs Facebook's ~52%  
 - Wednesday sees highest engagement and conversions  
@@ -67,7 +67,7 @@ In digital advertising, understanding which ads perform best across devices, pla
 
 ---
 
-## 💻 How to Run This Project
+##  How to Run This Project
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/social-media-ad-optimization.git
@@ -78,7 +78,7 @@ jupyter notebook social_media_ad_analysis.ipynb
 
 ---
 
-## 🔧 Tools & Libraries
+##  Tools & Libraries
 
 - **Python**: pandas, numpy, seaborn, matplotlib, scikit-learn  
 - **Jupyter Notebook**  
@@ -86,9 +86,10 @@ jupyter notebook social_media_ad_analysis.ipynb
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - Improve ad engagement and ROI through data-backed decisions  
 - Identify high-performing ad combinations and user segments  
 - Optimize ad spend across platforms and timing windows  
 - Simulate revenue potential for different categories
+
